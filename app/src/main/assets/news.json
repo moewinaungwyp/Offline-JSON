@@ -1,0 +1,29 @@
+{
+  "news": [
+    {
+      "title": "မြန်မာနိုင်ငံတွင် မိုးကြီးမည်",
+      "link": "https://www.facebook.com",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "Android 16 အသစ်ထွက်ရှိ",
+      "link": "https://www.google.com",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "JSON သည် အရေးပါသော ဖော်မတ်",
+      "link": "https://www.json.org/info",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "ပညာရေးကဏ္ဍ ဖွံ့ဖြိုးတိုးတက်",
+      "link": "https://www.edunews.com/article/4",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "စီးပွားရေး အခြေအနေ တိုးတက်",
+      "link": "https://www.businessnews.com/post/5",
+      "date": "2026-06-08"
+    }
+  ]
+}
